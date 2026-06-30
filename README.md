@@ -13,10 +13,7 @@ Uso de comandos git en grupo para la creacion de ramas y de igual manera la inse
 ---
 
 ## 👤 Autores
-**Julian Castellanos**
-**Diego Rojas**
-**Nataly Barahona**
-**Kendarg Real**  
+**Julian Castellanos, Diego Rojas, Nataly Barahona, Kendarg Real**
 
 
 
